@@ -1,6 +1,7 @@
 region_name,region_id,province_name,province_id
-Lazio,ITA01,Rome,ITA058
-Lazio,ITA01,Viterbo,ITA056
-Lombardia,ITA02,Milan,ITA015
-Lombardia,ITA02,Bergamo,ITA016
-Campania,ITA03,Naples,ITA063
+Lazio,ITA12,Rome,ITA12058
+Lazio,ITA12,Viterbo,ITA12056
+Lombardia,ITA03,Milan,ITA03015
+Lombardia,ITA03,Bergamo,ITA03016
+Campania,ITA15,Naples,ITA15063
+Campania,ITA15,Salerno,ITA15065
